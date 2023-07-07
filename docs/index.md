@@ -1,84 +1,109 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Bryant Van Orden Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Bryant Van Orden
+Software Engineer
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/bryant-van-orden-722818252/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## Intro
+
+- I am an Eagle Scout, returned
+missionary, and a go-getter with a 4.0
+in college. I am highly motivated and
+dedicated to delivering exceptional
+customer service. I am highly
+intelligent individual with an IQ range
+of 133-149. I can speak, read, and
+write Spanish and have acquired
+many skills while serving in 3 different
+countries. I will give my best to
+become the best employee I can be
+and help in these challenging times.
+
+## Hobbies:
+
+- Reading, Boardgames, Hiking,
+Swimming, Time with family and
+friends, Fishing, and Podcasts
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2022-Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Full academic scholarship with 4.0 GPA in Software Engineering
 
 
 ## Related Experience
 
-### Internships
+`September 2022 - October 2022`
+__Home Care Pulse__, Rexburg, ID
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- I and a team of 3 other students worked with Home Care pulse to make a Machine Learning application that could predict their data in a CSV file into the future and output it in interactive charts. I coded the entire back end of our app in python.
+- We did this for a university wide coding competition where we as freshmen won first place.
 
 
-## Service and Work History
+## Internship:
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`January 2023 - Expected December 2023`
+__Church of Jesus Christ of Latter-Day Saints__,  Riverton, UT
 
+- I worked on hundreds of bugs and added many new features to
+over 130 different worldwide education system reports written in
+SQL.
+- These reports were primarily in SSRS and Power BI. I
+worked on moving these reports to Power BI and keeping them
+updated.
+- I worked in the ETL of the organizations databases. I helped in a new ETL system.
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Data Science Certificates
+
+`May 2023`
+__Data Science Foundations: Data Engineering__, LinkedIn
+
+`January 2023`
+__Advanced SQL for Data Scientists__, LinkedIn
+
+`December 2022`
+__SQL: Data Reporting and Analysis__, LinkedIn
+
+## Skills:
+
+__PYTHON: 60%__
+
+__SQL: 70%__
+
+__QUICK LEARNING: 95%__
+
+__TEAM WORK: 75%__
+
+__MACHINE LEARNING: 35%__
+
+## Service 
+
+`2020-2022`
+__Service Missionary__, Califoria and Guatemala
+
+## Contact Information
+
+- PHONE:
+(480) – 316 – 3334
+
+LINKEDIN:
+
+https://www.linkedin.com/in/bryant-van-orden-722818252
+
+EMAIL:
+SUPERMANISMEBVO123@GMAIL.COM
 
 
 
